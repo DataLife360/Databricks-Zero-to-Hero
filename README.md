@@ -1,6 +1,6 @@
 
 # Databricks Zero to Hero! 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/DataLife360/Databricks-Zero-to-Hero/blob/main/Images/main.png)
 
 
 Repository for Databricks Zero to Hero series tutorial files
