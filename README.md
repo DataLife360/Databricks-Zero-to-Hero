@@ -1,5 +1,3 @@
-
-# Databricks Zero to Hero! 
 ![Logo](https://github.com/DataLife360/Databricks-Zero-to-Hero/blob/main/Images/main.png)
 
 
