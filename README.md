@@ -8,9 +8,9 @@ Check out the YouTube playlists for this ongoing series:
 * [Databricks Zero to Hero - 中文](https://youtube.com/playlist?list=PLefiSNPUtQ5HUvethTJF3KKBaNbdLhpef)
 
 # Series Parts: 
-* What is Databricks? 
-* Setting Up Databricks and Cost Management
-* Navigating the Workspace, Clusters, and Notebook Tricks
+1. What is Databricks? 
+2. Setting Up Databricks and Cost Management
+3. Navigating the Workspace, Clusters, and Notebook Tricks
 
 ## Roadmap:
 * Loading Data 
