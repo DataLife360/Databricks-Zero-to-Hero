@@ -11,7 +11,7 @@ Check out the YouTube playlists for this ongoing series:
 # Example Notebook Links
 *You can download notebooks by clicking the export notebook at the link. Save the url if you want to import it into a databricks environment*
 
-## Part 3:
+Part 3:
 [Databricks Notebook Tricks](https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)
 
 
