@@ -1,9 +1,8 @@
 ![Logo](https://github.com/DataLife360/Databricks-Zero-to-Hero/blob/main/Images/main.png)
 
 # About 
-Learn Databricks for the absolute beginner. 
+Learn Databricks for the absolute beginner. Repository for Databricks Zero to Hero series tutorial files. 
 
-Repository for Databricks Zero to Hero series tutorial files. 
 Check out the YouTube playlists for this ongoing series: 
 * [Databricks Zero to Hero - English](https://youtube.com/playlist?list=PLefiSNPUtQ5FcvdeAUkn-4-GzpkXEEQAc)
 * [Databricks Zero to Hero - 中文](https://youtube.com/playlist?list=PLefiSNPUtQ5HUvethTJF3KKBaNbdLhpef)
