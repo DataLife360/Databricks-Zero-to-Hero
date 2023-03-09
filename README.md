@@ -4,8 +4,8 @@
 
 Repository for Databricks Zero to Hero series tutorial files. 
 Check out the series at: 
-* [Databricks Notebook Tricks (English) ]([https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)]
-* [Databricks Notebook Tricks (中文) ]([https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)]
+* [Databricks Notebook Tricks English](https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)]
+* [Databricks Notebook Tricks 中文](https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)]
 
 
 # 🔗 Example Notebook Links
