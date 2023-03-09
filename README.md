@@ -7,6 +7,15 @@ Check out the YouTube playlists for this ongoing series:
 * [Databricks Zero to Hero - English](https://youtube.com/playlist?list=PLefiSNPUtQ5FcvdeAUkn-4-GzpkXEEQAc)
 * [Databricks Zero to Hero - 中文](https://youtube.com/playlist?list=PLefiSNPUtQ5HUvethTJF3KKBaNbdLhpef)
 
+# Series Parts: 
+1. What is Databricks? 
+2. Setting Up Databricks and Cost Management
+3. Navigating the Workspace, Clusters, and Notebook Tricks
+
+## Roadmap (Updated 3/8/2023):
+* Loading Data 
+* Machine Learning and MLflow
+* SQL Warehouse and Databricks Premium 
 
 # Example Notebook Links
 *You can download notebooks by clicking the export notebook at the link. Save the url if you want to import it into a databricks environment*
