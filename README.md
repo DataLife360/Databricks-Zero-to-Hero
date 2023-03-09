@@ -1,17 +1,20 @@
 ![Logo](https://github.com/DataLife360/Databricks-Zero-to-Hero/blob/main/Images/main.png)
 
+#About 
 
-Repository for Databricks Zero to Hero series tutorial files
+Repository for Databricks Zero to Hero series tutorial files. 
+Check out the series at: 
+[Databricks Notebook Tricks]([https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)](https://youtube.com/playlist?list=PLefiSNPUtQ5FcvdeAUkn-4-GzpkXEEQAc)
 
 
-## 🔗 Example Notebook Links
+
+# 🔗 Example Notebook Links
 *You can download notebooks by clicking the export notebook at the link. Save the url if you want to import it into a databricks environment*
 
-### Part 3:
+## Part 3:
 [Databricks Notebook Tricks](https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)
 
 
-## Authors
-
+# Authors
 - [@mattblasa](https://www.github.com/mattblasa )
 - [@juandu](https://github.com/curlycuckoo)
