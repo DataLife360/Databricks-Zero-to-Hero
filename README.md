@@ -3,9 +3,9 @@
 # About 
 
 Repository for Databricks Zero to Hero series tutorial files. 
-Check out the series at: 
-* [Databricks ZtH English](https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)
-* [Databricks ZtH 中文](https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)
+Check out the YouTube playlists for this ongoing series: 
+* [Databricks Zero to Hero - English](https://youtube.com/playlist?list=PLefiSNPUtQ5FcvdeAUkn-4-GzpkXEEQAc)
+* [Databricks Zero to Hero - 中文](https://youtube.com/playlist?list=PLefiSNPUtQ5HUvethTJF3KKBaNbdLhpef)
 
 
 # 🔗 Example Notebook Links
