@@ -5,7 +5,7 @@ Repository for Databricks Zero to Hero series tutorial files
 
 
 ## 🔗 Links
-[Part 3: Databricks Notebook Tricks](https://datalife360.github.io/azure-databricks/exercise01-blob.html)
+[Part 3: Databricks Notebook Tricks](https://datalife360.github.io/azure-databricks/Cell_Magic_Examples.html)
 
 
 ## Authors
